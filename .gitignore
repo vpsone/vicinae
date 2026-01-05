@@ -15,6 +15,10 @@ vicinae/assets/extension-runtime.js
 !extra/icons/vicinae-icon-theme.tar.gz
 /dist
 
+/.build
+/.rpm
+/.srpm
+
 __cmake*
 *.tgz
 
