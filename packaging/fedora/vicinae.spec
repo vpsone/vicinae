@@ -25,6 +25,7 @@ BuildRequires:  libqalculate-devel
 BuildRequires:  abseil-cpp-devel
 BuildRequires:  qtkeychain-qt6-devel
 BuildRequires:  wayland-devel
+BuildRequires:  glaze-devel
 BuildRequires:  layer-shell-qt-devel
 BuildRequires:  nodejs
 BuildRequires:  npm
