@@ -1,5 +1,5 @@
 Name:           vicinae
-Version:        0.17.1
+Version:        0.18.1
 Release:        1%{?dist}
 Summary:        High-performance native launcher for your desktop
 
