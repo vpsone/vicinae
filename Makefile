@@ -101,6 +101,10 @@ gen-contrib:
 	node ./scripts/gen-contrib.js
 .PHONY: gen-contrib
 
+copr-build:
+	chmod +x ./scripts/copr-build.sh
+	./scripts/copr-build.sh
+.PHONY: copr-build
 
 clean:
 	rm -rf $(BUILD_DIR)
